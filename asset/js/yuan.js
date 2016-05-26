@@ -1,4 +1,4 @@
-function get(data){
+function getq(data){
     	var url=window.location.href, res='';
     	url=url.split('?')[1]+'';
  		url=url.split('&');
